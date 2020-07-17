@@ -1,6 +1,7 @@
 # <font color="blue"></font> Engineer_Information_Processing
 - - -
-소프트웨어 생명 주기
+### 1. 소프트웨어 생명 주기
+- - -
 소프트웨어 생명 주기(Life Cycle)
 
 - 소프트웨어 개발 방법론의 바탕이 되어 소프트웨어를 개발하기 위해 정의하고 운용 유지보수 등의 과정을 각 단계별로 나눈 것
