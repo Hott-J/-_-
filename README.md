@@ -492,15 +492,17 @@
 
     ![연관관계](https://user-images.githubusercontent.com/47052106/87752253-e0005d00-c83a-11ea-9b3f-972d25722912.png)
 
-<br/>
+    <br/>
 
-![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
+   ![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
+   <br/>
+   사람과 집이 1:1 관계
+   <br/>
 
-<br/>
-
-![교수와학생](https://user-images.githubusercontent.com/47052106/87753440-92392400-c83d-11ea-86c4-6ada9f97cd8e.png)
-
-<br/>
+   ![교수와학생](https://user-images.githubusercontent.com/47052106/87753440-92392400-c83d-11ea-86c4-6ada9f97cd8e.png)
+   <br/>
+   교수는 1명 이상의 학생을 가르치고 학생은 1명 이상의 교수에게 가르침을 받음
+   <br/>
 
 + 집합 관계
 
