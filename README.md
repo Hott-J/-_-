@@ -30,7 +30,7 @@
 - 매뉴얼을 작성해야 함
 
 - 단계를 끝내고 다음 단계로 가기 위해서는 결과물이 명확히 나와야함
-
+![폭포수](https://user-images.githubusercontent.com/47052106/87751985-40db6580-c83a-11ea-9b92-4bd876acf3d6.png)
 <br/>
 
 > ### 프로토타입 모형
@@ -40,7 +40,7 @@
 - 폭포수 모델의 단점을 보완하기 위해 만들어진 모형
 
 - 사용자와 시스템 사이 인터페이스에 중점을 두어 개발
-
+![프로토](https://user-images.githubusercontent.com/47052106/87752029-5b154380-c83a-11ea-9a35-286dd400b7ec.png)
 <br/>
 
 > ### 나선형 모형
@@ -54,6 +54,7 @@
 - 누락되거나 추가된 요구사항을 첨가할 수 있음
 
 - 정밀하고 유지보수 과정이 필요 없음
+![나선형](https://user-images.githubusercontent.com/47052106/87752055-6b2d2300-c83a-11ea-94d2-44d96638cce3.png)
 
 <br/>
 
@@ -115,6 +116,7 @@
 
 + 스크럼 개발 프로세스
 
+![스크럼개발프로세스](https://user-images.githubusercontent.com/47052106/87752079-7f712000-c83a-11ea-989d-5c943986d1da.png)
 
 출처 : https://www.edureka.co/blog/agile-scrum-tutorial/
 - 제품 백로그(Product Backlog)
@@ -176,6 +178,8 @@
 > ### XP 개발 프로세스
 
 
+![xp개발프로세스](https://user-images.githubusercontent.com/47052106/87752130-9d3e8500-c83a-11ea-85f9-6aff6e81ad1d.png)
+
 + 사용자 스토리
 
     * 고객의 요구사항을 간단한 시나리오로 표현
@@ -226,6 +230,7 @@
 
 > ### 현행 시스템 파악 절차
 
+![현행시스템파악절차](https://user-images.githubusercontent.com/47052106/87752166-b1828200-c83a-11ea-9cd9-6f11d27f1d86.png)
 
 + 1단계
 
@@ -316,6 +321,8 @@
 <br/>
 
 > ### 요구사항 개발 프로세스
+![요구사항개발프로세스](https://user-images.githubusercontent.com/47052106/87752213-c5c67f00-c83a-11ea-88d4-b7c5e36cbf1d.png)
+
 
 + 요구사항 도출
 
@@ -483,20 +490,20 @@
 
     * 실선과 화살표로 연결하여 표현하지만 양방향 관계의 경우 화살표 없이 실선으로 연결하여 표현
 
-
-
-+ 사람과 집이 1:1 관계
-
-   * 교수는 1명 이상의 학생을 가르치고 학생은 1명 이상의 교수에게 가르침을 받음
+![연관관계](https://user-images.githubusercontent.com/47052106/87752253-e0005d00-c83a-11ea-9b3f-972d25722912.png)
+![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
+사람과 집이 1:1 관계
+![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
+ 교수는 1명 이상의 학생을 가르치고 학생은 1명 이상의 교수에게 가르침을 받음
 
 + 집합 관계
 
     * 하나의 사물이 다른 사물에 포함되어 있는 관계
 
     * 부분(포함되는 쪽)에서 전체(포함하는 쪽)로 속이 빈 마름모를 연결하여 표현
-
-
-+ 프린터는 컴퓨터에 연결해서 사용할 수 있음
+    
+    ![컴퓨터프린터](https://user-images.githubusercontent.com/47052106/87752361-2655bc00-c83b-11ea-8f14-b378fa281944.png)
+ 프린터는 컴퓨터에 연결해서 사용할 수 있음
 
    - 포함 관계
 
@@ -504,16 +511,17 @@
 
     * 부분(포함되는 쪽)에서 전체(포함하는 쪽)로 속이 채워진 마름모를 연결하여 표현
 
+![문과키](https://user-images.githubusercontent.com/47052106/87752402-3a99b900-c83b-11ea-90bb-bf209099468d.png)
 
-+ 문을 열 수 있는 키는 하나이고 해당 키로 다른 문은 열 수 없음
+ 문을 열 수 있는 키는 하나이고 해당 키로 다른 문은 열 수 없음
    - 의존 관계
 
     * 사물 사이에 연관은 있으나 필요에 의해서 서로에게 영향을 주는 짧은 시간 동안만 연관을 유지하는 관계
 
     * 영향을 주는 사물이 영향을 받는 사물 쪽으로 점선 화살표 연결
 
-
-+ 출석률은 학점을 낼 때 영향을 미침
+![출석률과 학점](https://user-images.githubusercontent.com/47052106/87752442-4eddb600-c83b-11ea-97b9-4a48af444501.png)
+ 출석률은 학점을 낼 때 영향을 미침
    
    - 일반화 관계
 
@@ -521,12 +529,14 @@
 
     * 구체적인 사물에서 일반적인 사물 쪽으로 속이 빈 화살표를 연결
 
+![일반화관계](https://user-images.githubusercontent.com/47052106/87752457-5c933b80-c83b-11ea-847a-59698ed060d4.png)
 
 + 실체화 관계
 
     * 사물이 할 수 있거나 해야 하는 기능으로 서로를 그룹화할 수 있는 관계
 
     * 사물에서 기능 쪽으로 속이 빈 점선 화살표 연결
+![실체화관계](https://user-images.githubusercontent.com/47052106/87752466-6a48c100-c83b-11ea-9de2-1c9a5ce3a782.png)
 
 <br/>
 
@@ -618,6 +628,8 @@
 
 > ### 한국형 웹 콘텐츠 접근성 지침(KWCAG)
 
+![한국형 웹 콘텐츠 접근성 지침](https://user-images.githubusercontent.com/47052106/87752507-7d5b9100-c83b-11ea-9357-cf26c58d6dd2.png)
+
 - 장애인과 비장애인이 동등하게 접근할 수 있는 웹 콘텐츠 제작의 방법 제시
 
 - 웹 콘텐츠 접근성 지침 준수를 위한 고려사항
@@ -662,7 +674,8 @@
 - 기획 초기 단계에서 제작하는 것으로 페이지에 대한 대략적인 레이아웃이나 UI 요소 등에 대한 뼈대를 설계
 
 - 와이어프레임 툴 : 손그림, 파워포인트, 키노트, 스케치, 일러스트, 포토샵 등
-
+![키노트](https://user-images.githubusercontent.com/47052106/87752537-8d737080-c83b-11ea-93ad-b8da48c65d02.png)
+&nspq 키노트
 <br/>
 
 > ### 목업
@@ -671,8 +684,8 @@
 
 - 목업 툴 : 파워 목업, 발사믹 목업 등
 
-
-출처 : https://www.mockupworld.co/free/category/iphone/
+![목업툴](https://user-images.githubusercontent.com/47052106/87752565-a11ed700-c83b-11ea-9138-57e6fad42465.png)
+&npsq 출처 : https://www.mockupworld.co/free/category/iphone/
  
 <br/>
 
@@ -686,8 +699,8 @@
 
 - 스토리보드 툴 : 파워포인트, 키노트, 스케치, Axure 등
 
-
-출처 : https://m.blog.naver.com/durandot/100205321229
+![스토리보드](https://user-images.githubusercontent.com/47052106/87752616-b7c52e00-c83b-11ea-9b0e-cf64da6793cb.png)
+&npsq&npsq&npsq&npsq&npsq&npsq 출처 : https://m.blog.naver.com/durandot/100205321229
  
 <br/>
 
@@ -699,8 +712,8 @@
 
 - 프로토타입 툴 : HTML/CSS, Axure, Flinto, 네이버 포로토나우, 카카오 오븐 등
 
-
-출처 : https://ovenapp.io/
+![프로토타입](https://user-images.githubusercontent.com/47052106/87752647-ca3f6780-c83b-11ea-8424-70f6f956b40e.png)
+&npsq&npsq&npsq&npsq 출처 : https://ovenapp.io/
  
 <br/>
 
@@ -708,7 +721,7 @@
 
 - 사용자 측면에서의 요구사항으로 사용자가 원하는 목표를 달성하기 위해 수행할 내용 기술
 
-
+![유스케이스](https://user-images.githubusercontent.com/47052106/87752675-dd523780-c83b-11ea-9de0-f7a0ba30d0fd.jpg)
 출처 : http://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS8900361225&cate_cd=
  
 <br/>
@@ -717,6 +730,7 @@
 > ### UI 요구사항 확인의 개요
 
 - 새로 개발할 시스템에 적용할 UI 관련 요구사항을 조사해서 작성하는 단계
+![요구사항확이내요](https://user-images.githubusercontent.com/47052106/87752692-ec38ea00-c83b-11ea-8e80-9fc163946e28.png)
 
 <br/>
 
