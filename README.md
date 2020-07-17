@@ -565,3 +565,17 @@
 
 </details>
 
+## 2. 화면 설계
+<details markdown= "2">
+<summary> 화면 설계 정리</summary>
+</details>
+
+## 3. 애플리케이션 설계
+<details markdown= "2">
+<summary> 애플리케이션 설계 정리</summary>
+</details>
+
+## 4. 인터페이스 설계
+<details markdown= "2">
+<summary> 인터페이스 설계 정리</summary>
+</details>
