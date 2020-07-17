@@ -843,7 +843,7 @@
  
 
 > ### UI 프로토타입 제작 단계
-<img src="/C:\Users\jhj13\Downloads/ui 프로토타입 제작 단계.png" width="40%" height="30%" title="ui prototype" alt="ui prototype "></img>
+![ui 프로토타입 제작 단계](https://user-images.githubusercontent.com/47052106/87750548-bb09eb00-c836-11ea-90a4-457253f1615a.png)
 
 ## 6. UI 설계서 작성
 > #### UI 설계서의 개요
