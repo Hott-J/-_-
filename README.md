@@ -2,8 +2,8 @@
 - - -
 ## 소프트웨어 설계
 ### 1. 요구사항 확인
-<details markdown="1">
-<summary>요구사항 확인 정리</summary>
+<details markdown= "1">
+<summary> 요구사항 확인 정리</summary>
 
 ## 1. 소프트웨어 생명 주기
 
