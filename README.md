@@ -494,15 +494,13 @@
 
 <br/>
 
-    ![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
-
-<br/>
-&nbsp&nbsp&nbsp&nbsp&nbsp 사람과 집이 1:1 관계
-
 ![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
 
 <br/>
-&nbsp&nbsp&nbsp&nbsp&nbsp 교수는 1명 이상의 학생을 가르치고 학생은 1명 이상의 교수에게 가르침을 받음
+
+![교수와학생](https://user-images.githubusercontent.com/47052106/87753440-92392400-c83d-11ea-86c4-6ada9f97cd8e.png)
+
+<br/>
 
 + 집합 관계
 
@@ -512,8 +510,6 @@
     
     ![컴퓨터프린터](https://user-images.githubusercontent.com/47052106/87752361-2655bc00-c83b-11ea-8f14-b378fa281944.png)
     
-    <br/>
-&nbsp&nbsp&nbsp&nbsp&nbsp 프린터는 컴퓨터에 연결해서 사용할 수 있음
 
 - 포함 관계
 
@@ -524,8 +520,6 @@
     ![문과키](https://user-images.githubusercontent.com/47052106/87752402-3a99b900-c83b-11ea-90bb-bf209099468d.png)
     
  <br/>
-
- &nbsp&nbsp&nbsp&nbsp&nbsp 문을 열 수 있는 키는 하나이고 해당 키로 다른 문은 열 수 없음
  
 - 의존 관계
 
@@ -536,8 +530,6 @@
 ![출석률과 학점](https://user-images.githubusercontent.com/47052106/87752442-4eddb600-c83b-11ea-97b9-4a48af444501.png)
 
 <br/>
-
-&nbsp&nbsp&nbsp&nbsp&nbsp 출석률은 학점을 낼 때 영향을 미침
 
 - 일반화 관계
 
@@ -554,6 +546,7 @@
     * 사물이 할 수 있거나 해야 하는 기능으로 서로를 그룹화할 수 있는 관계
 
     * 사물에서 기능 쪽으로 속이 빈 점선 화살표 연결
+    
 ![실체화관계](https://user-images.githubusercontent.com/47052106/87752466-6a48c100-c83b-11ea-9de2-1c9a5ce3a782.png)
 
 <br/>
