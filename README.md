@@ -721,7 +721,7 @@
 - 스토리보드 툴 : 파워포인트, 키노트, 스케치, Axure 등
 
 ![스토리보드](https://user-images.githubusercontent.com/47052106/87752616-b7c52e00-c83b-11ea-9b0e-cf64da6793cb.png)
-<br.>
+<br/>
 출처 : https://m.blog.naver.com/durandot/100205321229
  
 <br/>
