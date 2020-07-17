@@ -556,7 +556,7 @@
 
     * 사물에서 기능 쪽으로 속이 빈 점선 화살표 연결
     
-![실체화관계](https://user-images.githubusercontent.com/47052106/87752466-6a48c100-c83b-11ea-9de2-1c9a5ce3a782.png)
+    ![실체화관계](https://user-images.githubusercontent.com/47052106/87752466-6a48c100-c83b-11ea-9de2-1c9a5ce3a782.png)
 
 <br/>
 
