@@ -512,6 +512,11 @@
     
     ![컴퓨터프린터](https://user-images.githubusercontent.com/47052106/87752361-2655bc00-c83b-11ea-8f14-b378fa281944.png)
     
+    <br/>
+    
+    프린터는 컴퓨터에 연결해서 사용할 수 있음
+
+   <br/>
 
 - 포함 관계
 
@@ -521,6 +526,10 @@
 
     ![문과키](https://user-images.githubusercontent.com/47052106/87752402-3a99b900-c83b-11ea-90bb-bf209099468d.png)
     
+    <br/>
+    
+    문을 열 수 있는 키는 하나이고 해당 키로 다른 문은 열 수 없음
+    
  <br/>
  
 - 의존 관계
@@ -529,7 +538,11 @@
 
     * 영향을 주는 사물이 영향을 받는 사물 쪽으로 점선 화살표 연결
 
-![출석률과 학점](https://user-images.githubusercontent.com/47052106/87752442-4eddb600-c83b-11ea-97b9-4a48af444501.png)
+   ![출석률과 학점](https://user-images.githubusercontent.com/47052106/87752442-4eddb600-c83b-11ea-97b9-4a48af444501.png)
+   
+   <br/>
+   
+   출석률은 학점을 낼 때 영향을 미침
 
 <br/>
 
@@ -539,8 +552,8 @@
 
     * 구체적인 사물에서 일반적인 사물 쪽으로 속이 빈 화살표를 연결
 
-![일반화관계](https://user-images.githubusercontent.com/47052106/87752457-5c933b80-c83b-11ea-847a-59698ed060d4.png)
-
+   ![일반화관계](https://user-images.githubusercontent.com/47052106/87752457-5c933b80-c83b-11ea-847a-59698ed060d4.png)   
+   
 <br/>
 
 + 실체화 관계
