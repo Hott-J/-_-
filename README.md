@@ -497,12 +497,12 @@
     ![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
 
 <br/>
-&npsq&npsq&npsq&npsq&npsq 사람과 집이 1:1 관계
+&nbsp&nbsp&nbsp&nbsp&nbsp 사람과 집이 1:1 관계
 
 ![사람과집](https://user-images.githubusercontent.com/47052106/87752289-f9a1a480-c83a-11ea-96f3-4572e8d0ec35.png)
 
 <br/>
-&npsq&npsq&npsq&npsq&npsq 교수는 1명 이상의 학생을 가르치고 학생은 1명 이상의 교수에게 가르침을 받음
+&nbsp&nbsp&nbsp&nbsp&nbsp 교수는 1명 이상의 학생을 가르치고 학생은 1명 이상의 교수에게 가르침을 받음
 
 + 집합 관계
 
@@ -513,7 +513,7 @@
     ![컴퓨터프린터](https://user-images.githubusercontent.com/47052106/87752361-2655bc00-c83b-11ea-8f14-b378fa281944.png)
     
     <br/>
-&npsq&npsq&npsq&npsq 프린터는 컴퓨터에 연결해서 사용할 수 있음
+&nbsp&nbsp&nbsp&nbsp&nbsp 프린터는 컴퓨터에 연결해서 사용할 수 있음
 
 - 포함 관계
 
@@ -522,8 +522,11 @@
     * 부분(포함되는 쪽)에서 전체(포함하는 쪽)로 속이 채워진 마름모를 연결하여 표현
 
     ![문과키](https://user-images.githubusercontent.com/47052106/87752402-3a99b900-c83b-11ea-90bb-bf209099468d.png)
+    
+ <br/>
 
- &npsq&npsq&npsq&npsq문을 열 수 있는 키는 하나이고 해당 키로 다른 문은 열 수 없음
+ &nbsp&nbsp&nbsp&nbsp&nbsp 문을 열 수 있는 키는 하나이고 해당 키로 다른 문은 열 수 없음
+ 
 - 의존 관계
 
     * 사물 사이에 연관은 있으나 필요에 의해서 서로에게 영향을 주는 짧은 시간 동안만 연관을 유지하는 관계
@@ -531,8 +534,11 @@
     * 영향을 주는 사물이 영향을 받는 사물 쪽으로 점선 화살표 연결
 
 ![출석률과 학점](https://user-images.githubusercontent.com/47052106/87752442-4eddb600-c83b-11ea-97b9-4a48af444501.png)
-&npsq&npsq&npsq&npsq 출석률은 학점을 낼 때 영향을 미침
-   
+
+<br/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp 출석률은 학점을 낼 때 영향을 미침
+
 - 일반화 관계
 
     * 하나의 사물이 다른 사물에 비해 일반적인지 구체적인지 표현
@@ -540,6 +546,8 @@
     * 구체적인 사물에서 일반적인 사물 쪽으로 속이 빈 화살표를 연결
 
 ![일반화관계](https://user-images.githubusercontent.com/47052106/87752457-5c933b80-c83b-11ea-847a-59698ed060d4.png)
+
+<br/>
 
 + 실체화 관계
 
