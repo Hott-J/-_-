@@ -5,7 +5,7 @@
 <details markdown= "1">
 <summary> 요구사항 확인 정리</summary>
 
-## 1. 소프트웨어 생명 주기.
+## 1. 소프트웨어 생명 주기
 
 > ### 소프트웨어 생명 주기(Life Cycle)
 
